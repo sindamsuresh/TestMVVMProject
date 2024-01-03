@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E54F7B57-81DE-48AC-8593-F96E98D9DB26"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B774D12-1C4B-4C69-8085-C87B417E6CD2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestMVVMProject/APIManegar/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B774D12-1C4B-4C69-8085-C87B417E6CD2 - e4cdae726e9e3e2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestMVVMProject.APIManager.getData(completion: (Swift.Optional&lt;Swift.Array&lt;TestMVVMProject.DataModel&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestMVVMProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sindam/Personal%20Data/Suresh/IOS%20Demo%20Projects/TestMVVMProject/TestMVVMProject/APIManegar/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+               <Location
+                  uuid = "5B774D12-1C4B-4C69-8085-C87B417E6CD2 - 2e073d05bbc5a177"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestMVVMProject.APIManager.getData(completion: (Swift.Optional&lt;TestMVVMProject.DataModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestMVVMProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sindam/Personal%20Data/Suresh/IOS%20Demo%20Projects/TestMVVMProject/TestMVVMProject/APIManegar/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCFFB9E9-00D0-4D5E-AF6B-744A34119C87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestMVVMProject/APIManegar/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCFFB9E9-00D0-4D5E-AF6B-744A34119C87 - e4cdae726e9e3ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestMVVMProject.APIManager.getData(completion: (Swift.Optional&lt;Swift.Array&lt;TestMVVMProject.DataModel&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestMVVMProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sindam/Personal%20Data/Suresh/IOS%20Demo%20Projects/TestMVVMProject/TestMVVMProject/APIManegar/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "DCFFB9E9-00D0-4D5E-AF6B-744A34119C87 - 2e073d05bbc5a1aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestMVVMProject.APIManager.getData(completion: (Swift.Optional&lt;TestMVVMProject.DataModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestMVVMProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sindam/Personal%20Data/Suresh/IOS%20Demo%20Projects/TestMVVMProject/TestMVVMProject/APIManegar/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "125CE694-0FFD-4286-8751-729F75B099D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestMVVMProject/APIManegar/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "125CE694-0FFD-4286-8751-729F75B099D7 - e4cdae726e9e3d56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestMVVMProject.APIManager.getData(completion: (Swift.Optional&lt;Swift.Array&lt;TestMVVMProject.DataModel&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestMVVMProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sindam/Personal%20Data/Suresh/IOS%20Demo%20Projects/TestMVVMProject/TestMVVMProject/APIManegar/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+               <Location
+                  uuid = "125CE694-0FFD-4286-8751-729F75B099D7 - 2e073d05bbc5a20d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestMVVMProject.APIManager.getData(completion: (Swift.Optional&lt;TestMVVMProject.DataModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestMVVMProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sindam/Personal%20Data/Suresh/IOS%20Demo%20Projects/TestMVVMProject/TestMVVMProject/APIManegar/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

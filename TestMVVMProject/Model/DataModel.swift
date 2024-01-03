@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct DataModel: Codable {
+    let articles: [Articles]
+}
+
+
+struct Articles: Codable {
+    let title: String
+}
